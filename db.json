@@ -1,3 +1,3 @@
 {
-get:"hello"
+get:[{name:"hello"}]
 }
